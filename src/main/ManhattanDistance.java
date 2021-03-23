@@ -5,32 +5,16 @@ import java.util.*;
 public class ManhattanDistance {
   int aX, aY, bX, bY; //initialize integers for point A and point B
 
-  public int getaX() {
-    return aX;
-  }
-
   public void setaX(int aX) {
     this.aX = aX;
-  }
-
-  public int getaY() {
-    return aY;
   }
 
   public void setaY(int aY) {
     this.aY = aY;
   }
 
-  public int getbX() {
-    return bX;
-  }
-
   public void setbX(int bX) {
     this.bX = bX;
-  }
-
-  public int getbY() {
-    return bY;
   }
 
   public void setbY(int bY) {
